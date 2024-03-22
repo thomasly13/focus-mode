@@ -4,7 +4,8 @@
     "description": "Enable focus mode on Chrome's official Extensions and Chrome Web Store documentation",
     "version": "1.0",
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "scripting"
     ],
     "icons": {
         "16": "images/icon-16.png",
